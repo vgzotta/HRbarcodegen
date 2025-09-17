@@ -1,0 +1,9 @@
+{
+  "name": "EAN-13 Barcode Generator",
+  "short_name": "EAN13",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": []
+}
